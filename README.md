@@ -14,13 +14,14 @@ A modern, intuitive file storage application built with React that provides seam
 
 ## 🖼️ Screenshots
 
-### Main Dashboard
-![Dashboard](src/assets/Screenshot%202025-09-29%20231237.gif)
 
 ### File Upload Interface
 ![Upload](src/assets/Screenshot%202025-09-29%20231047.gif)
 
-### File Management
+### Main Dashboard
+![Dashboard](src/assets/Screenshot%202025-09-29%20231237.gif)
+
+### File converter
 ![Management](src/assets/Screenshot%202025-09-29%20231100.gif)
 
 ## 🚀 Getting Started
