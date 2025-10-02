@@ -1,4 +1,5 @@
-const BASE_URL="http://localhost:8080/api/v1.0";
+const BASE_URL = "http://ec2-3-110-121-97.ap-south-1.compute.amazonaws.com:8080/api/v1.0";
+
 
 export const apiEndpoints={
     FETCH_FILES:`${BASE_URL}/files/my`,

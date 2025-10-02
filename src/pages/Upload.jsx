@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import DashboardLayout from '../layout/DashboardLayout';
-import { UserCreditsContext } from '../context/UsercreditsContext';
+import { UserCreditsContext } from '../context/UserCreditsContext';
 import { apiEndpoints } from '../util/apiEndpoints';
 import toast from 'react-hot-toast';
 import axios from 'axios';

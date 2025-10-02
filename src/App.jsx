@@ -6,7 +6,8 @@ import PublicFileView from "./pages/PublicFileView";
 import Transactions from "./pages/Transactions";
 import Landing from "./pages/Landing"; // your landing page (optional)
 import Subscription from "./pages/Subscription";
-import UserCreditsProvider from "./context/UsercreditsContext";
+// import UserCreditsProvider from "./context/UsercreditsContext";
+import UserCreditsProvider from "./context/UserCreditsContext";
 
 import "./App.css";
 import { RedirectToSignIn,SignedIn, SignedOut } from "@clerk/clerk-react";

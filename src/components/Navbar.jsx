@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { SignedIn, UserButton } from '@clerk/clerk-react'
 import Sidemenu from './Sidemenu'
 import CreditsDisplay from './CreditsDisplay'
-import { UserCreditsContext } from '../context/UsercreditsContext'
+import { UserCreditsContext } from '../context/UserCreditsContext'
 
 const Navbar = ({activemenu}) => {
   const [openSideMenu, setOpenMenu] = useState(false);
