@@ -405,7 +405,6 @@ const FileConverter = () => {
       </div>
       <div className="mt-6 text-xs text-gray-400 text-center">
         <p>Supported formats: TXT, PDF, DOCX, XLSX, CSV, JSON, SVG, HTML</p>
-        <p>PDFs are now extracted using pdfjs-dist ✅</p>
         <p>Maximum file size recommended: 10MB</p>
       </div>
     </div>
